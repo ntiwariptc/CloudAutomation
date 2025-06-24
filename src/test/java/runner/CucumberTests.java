@@ -23,6 +23,6 @@ import org.junit.runner.RunWith;
 /**
  * This is the test runner class that triggers execution of Cucumber test cases.
  */
-public class CucumberTestRunner  {
+public class CucumberTests {
 
 }
