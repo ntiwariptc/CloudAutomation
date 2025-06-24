@@ -17,8 +17,8 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/feature/Login.feature", // Path to the feature files
         glue = {"com.stepDefinitions", "com.pages", "runner"}, // Packages containing step definitions and hooks
         monochrome = true ,// Makes console output more readable
-        tags = "@TC01 or @TC02" // Uncomment to run tests tagged with @TC01 or @TC02
-        // tags="@TC01" // Uncomment to run only @TC01 test cases
+//        tags = "@TC01 or @TC02" // Uncomment to run tests tagged with @TC01 or @TC02
+         tags="@TC01" // Uncomment to run only @TC01 test cases
 )
 /**
  * This is the test runner class that triggers execution of Cucumber test cases.

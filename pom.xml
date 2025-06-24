@@ -206,7 +206,7 @@
                 <version>3.2.5</version>
                 <configuration>
                     <includes>
-                        <include>CucumberTests.java</include>
+                        <include>**/CucumberTests.java</include>
                     </includes>
                     <properties>
                         <configurationParameters>

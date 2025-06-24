@@ -1,9 +1,9 @@
+runner/CucumberTests.class
+runner/CustomReportHooks.class
+commands/commonCommands.class
 com/pages/BasePage.class
 utilities/ScreenshotUtil.class
-runner/CustomReportHooks.class
-runner/CucumberTestRunner.class
 utilities/EncryptDecrypt.class
-commands/commonCommands.class
 com/pageObjects/ObjectRepository.class
 com/pages/LoginPage.class
 com/stepDefinitions/LoginStepdefinition.class
