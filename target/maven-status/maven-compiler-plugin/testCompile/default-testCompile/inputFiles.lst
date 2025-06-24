@@ -1,0 +1,10 @@
+/Users/nitinkumar/CloudAutomation/src/test/java/com/pageObjects/ObjectRepository.java
+/Users/nitinkumar/CloudAutomation/src/test/java/com/pages/BasePage.java
+/Users/nitinkumar/CloudAutomation/src/test/java/com/pages/LoginPage.java
+/Users/nitinkumar/CloudAutomation/src/test/java/com/stepDefinitions/LoginStepdefinition.java
+/Users/nitinkumar/CloudAutomation/src/test/java/commands/commonCommands.java
+/Users/nitinkumar/CloudAutomation/src/test/java/runner/CucumberTestRunner.java
+/Users/nitinkumar/CloudAutomation/src/test/java/runner/CustomReport.java
+/Users/nitinkumar/CloudAutomation/src/test/java/runner/CustomReportHooks.java
+/Users/nitinkumar/CloudAutomation/src/test/java/utilities/EncryptDecrypt.java
+/Users/nitinkumar/CloudAutomation/src/test/java/utilities/ScreenshotUtil.java
